@@ -19,5 +19,7 @@ overrides:
   flatted: '>=3.4.2'
   'socket.io-parser': '>=4.2.6'
   kysely: '>=0.28.14'
-  minimatch: '>=9.0.7'
+  minimatch: '>=10.2.3'
   picomatch: '>=4.0.4'
+  effect: '>=3.20.0'
+  yaml: '>=2.8.3'
